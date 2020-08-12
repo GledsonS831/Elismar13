@@ -2,21 +2,21 @@
 ---
 
 <p align="center">
-  <a href="">
+  <a href="https://www.linkedin.com/in/elismar-silva-644272191/">
     <img 
       src="./.github/linkedin.svg"
       alt="Meu linkedin"
       width=32
     />
   </a>
-  <a href="">
+  <a href="https://www.github.com/Elismar13">
     <img 
       src="./.github/github.svg"
       alt="Meu github"
       width=32
     />
   </a>
-  <a href="">
+  <a href="https://twitter.com/Elismar_Silva13">
     <img 
       src="./.github/twitter.svg"
       alt="Meu twitter"
@@ -30,10 +30,10 @@
       width=32
     />
   </a>
-  <a href="">
+  <a href="https://twitch.tv/thushima_">
     <img 
       src="./.github/twitch.svg"
-      alt="Meu twitch"
+      alt="Minha twitch"
       width=32
     />
   </a>
@@ -66,6 +66,11 @@
   <img 
     src="./.github/c-sharp-logo.svg"
     alt="csharp"
+    width=32
+  />
+  <img 
+    src="./.github/react.svg"
+    alt="react"
     width=32
   />
 </p>
