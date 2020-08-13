@@ -4,35 +4,35 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/elismar-silva-644272191/">
     <img 
-      src="./.github/linkedin.svg"
+      src="https://raw.githubusercontent.com/Elismar13/Elismar13/master/.github/linkedin.svg"
       alt="Meu linkedin"
       width=32
     />
   </a>
   <a href="https://www.github.com/Elismar13">
     <img 
-      src="./.github/github.svg"
+      src="https://raw.githubusercontent.com/Elismar13/Elismar13/master/.github/github.svg"
       alt="Meu github"
       width=32
     />
   </a>
   <a href="https://twitter.com/Elismar_Silva13">
     <img 
-      src="./.github/twitter.svg"
+      src="https://raw.githubusercontent.com/Elismar13/Elismar13/master/.github/twitter.svg"
       alt="Meu twitter"
       width=32
     />
   </a>
   <a href="mailto:elismarsilva.5@outlook.com">
     <img 
-      src="./.github/mail.svg"
+      src="https://raw.githubusercontent.com/Elismar13/Elismar13/master/.github/mail.svg"
       alt="Meu e-mail"
       width=32
     />
   </a>
   <a href="https://twitch.tv/thushima_">
     <img 
-      src="./.github/twitch.svg"
+      src="https://raw.githubusercontent.com/Elismar13/Elismar13/master/.github/twitch.svg"
       alt="Minha twitch"
       width=32
     />
@@ -49,27 +49,27 @@
 
 <p>
   <img 
-    src="./.github/typescript.svg"
+    src="https://raw.githubusercontent.com/Elismar13/Elismar13/master/.github/typescript.svg"
     alt="typescript"
     width=32
   />
   <img 
-    src="./.github/nodejs.svg"
+    src="https://raw.githubusercontent.com/Elismar13/Elismar13/master/.github/nodejs.svg"
     alt="nodejs"
     width=32
   />
   <img 
-    src="./.github/java.svg"
+    src="https://raw.githubusercontent.com/Elismar13/Elismar13/master/.github/java.svg"
     alt="java"
     width=32
   />
   <img 
-    src="./.github/c-sharp-logo.svg"
+    src="https://raw.githubusercontent.com/Elismar13/Elismar13/master/.github/c-sharp-logo.svg"
     alt="csharp"
     width=32
   />
   <img 
-    src="./.github/react.svg"
+    src="https://raw.githubusercontent.com/Elismar13/Elismar13/master/.github/react.svg"
     alt="react"
     width=32
   />
